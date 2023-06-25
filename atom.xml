@@ -6,7 +6,7 @@
   <link href="https://xc597.github.io/atom.xml" rel="self"/>
   
   <link href="https://xc597.github.io/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2023-06-25T08:16:22.268Z</updated>
   <id>https://xc597.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>transformer</title>
+    <link href="https://xc597.github.io/posts/201344d.html"/>
+    <id>https://xc597.github.io/posts/201344d.html</id>
+    <published>2023-06-25T08:11:53.000Z</published>
+    <updated>2023-06-25T08:16:22.268Z</updated>
+    
+    <content type="html"><![CDATA[<p>5</p>]]></content>
+    
+    
+    <summary type="html">transformer论文阅读笔记</summary>
+    
+    
+    
+    <category term="算法" scheme="https://xc597.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="transformer" scheme="https://xc597.github.io/tags/transformer/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>

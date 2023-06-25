@@ -6,7 +6,7 @@
   <link href="https://xc597.github.io/atom.xml" rel="self"/>
   
   <link href="https://xc597.github.io/"/>
-  <updated>2023-06-25T08:33:08.808Z</updated>
+  <updated>2023-06-25T08:38:10.846Z</updated>
   <id>https://xc597.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://xc597.github.io/posts/201344d.html"/>
     <id>https://xc597.github.io/posts/201344d.html</id>
     <published>2023-06-25T08:11:53.000Z</published>
-    <updated>2023-06-25T08:33:08.808Z</updated>
+    <updated>2023-06-25T08:38:10.846Z</updated>
     
-    <content type="html"><![CDATA[<h1>4</h1><h1>5</h1><h2 id="6">6</h2>]]></content>
+    <content type="html"><![CDATA[<h1>1</h1><h2 id="1-1">1.1</h2><h2 id="1-2">1.2</h2><h2 id="1-3">1.3</h2><h1>5</h1><h2 id="6">6</h2>]]></content>
     
     
     <summary type="html">transformer论文阅读笔记</summary>

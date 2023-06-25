@@ -5161,7 +5161,7 @@ h1.page-title + .tag-cloud-list {
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 9999;
+  z-index: 99;
   pointer-events: none;
 }
 .medium-zoom-image--opened {
@@ -5222,7 +5222,7 @@ mjx-container[display],
   border-radius: 5px !important;
 }
 [data-theme="dark"] #web_bg {
-  background: url(https://source.fomal.cc/img/dm12.webp);
+  background: url(https://source.fomal.cc/img/dm11.webp);
   background-attachment: local;
   background-position: center;
   background-size: cover;

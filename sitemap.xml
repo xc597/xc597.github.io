@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://xc597.github.io.git/box/animation/index.html</loc>
+    <loc>https://xc597.github.io.git/life/games/index.html</loc>
     
     <lastmod>2023-06-25</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://xc597.github.io.git/box/gallery/index.html</loc>
+    <loc>https://xc597.github.io.git/life/movies/index.html</loc>
     
     <lastmod>2023-06-25</lastmod>
     
@@ -47,7 +47,25 @@
   </url>
   
   <url>
-    <loc>https://xc597.github.io.git/personal/about/index.html</loc>
+    <loc>https://xc597.github.io.git/life/music/index.html</loc>
+    
+    <lastmod>2023-06-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xc597.github.io.git/site/census/index.html</loc>
+    
+    <lastmod>2023-06-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xc597.github.io.git/site/time/index.html</loc>
     
     <lastmod>2023-06-25</lastmod>
     
@@ -65,16 +83,7 @@
   </url>
   
   <url>
-    <loc>https://xc597.github.io.git/box/nav/index.html</loc>
-    
-    <lastmod>2023-06-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xc597.github.io.git/life/movies/index.html</loc>
+    <loc>https://xc597.github.io.git/personal/about/index.html</loc>
     
     <lastmod>2023-06-25</lastmod>
     
@@ -101,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://xc597.github.io.git/site/time/index.html</loc>
+    <loc>https://xc597.github.io.git/box/animation/index.html</loc>
     
     <lastmod>2023-06-25</lastmod>
     
@@ -110,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://xc597.github.io.git/life/music/index.html</loc>
+    <loc>https://xc597.github.io.git/box/gallery/index.html</loc>
     
     <lastmod>2023-06-25</lastmod>
     
@@ -119,16 +128,7 @@
   </url>
   
   <url>
-    <loc>https://xc597.github.io.git/life/games/index.html</loc>
-    
-    <lastmod>2023-06-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xc597.github.io.git/site/census/index.html</loc>
+    <loc>https://xc597.github.io.git/box/nav/index.html</loc>
     
     <lastmod>2023-06-25</lastmod>
     
